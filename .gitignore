@@ -23,8 +23,3 @@ yarn-debug.log*
 yarn-error.log*
 
 .package-lock.json
-/Components
-Components
-.Components
-/src
-src/Components
